@@ -1,0 +1,9 @@
+.header_place_center {
+  margin: 28px auto 0;
+}
+
+@media screen and (max-width: 320px) {
+  .header_place_center {
+    margin: 16px auto 0;
+  }
+}

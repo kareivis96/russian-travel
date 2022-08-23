@@ -1,4 +1,50 @@
+@import url('../vendor/normalize.css');
+
+/* --main styles-- */
+@import url('../blocks/body/body.css');
+
+/* --header-block styles-- */
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/_place/header_place_center.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__link-list/header__link-list.css');
+@import url('../blocks/header/__list-item/header__list-item.css');
+@import url('../blocks/header/__lang-link/header__lang-link.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
+
+/* --lead-block styles-- */
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/lead/_place/lead_place_center.css');
+@import url('../blocks/lead/__title/lead__title.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__img/lead__img.css');
+@import url('../blocks/lead/__paragraph/lead__paragraph.css');
+
+/* --intro-block styles-- */
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/_place/intro_place_center.css');
+@import url('../blocks/intro/__content-block/intro__content-block.css');
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__paragraph/intro__paragraph.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__list-item/intro__list-item.css');
+
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header.css');
+
+/* --main fonts styles-- */
 @font-face {
   font-family: Inter;
-  src: url('../fonts/Inter-VariableFont_slnt\,wght.ttf');
+  src: url('../fonts/Inter.ttf');
 }

@@ -1,0 +1,9 @@
+.intro__content-block {
+  max-width: 690px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__content-block {
+    margin: 0 auto;
+  }
+}
