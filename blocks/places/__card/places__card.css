@@ -1,0 +1,24 @@
+.places__card {
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: minmax(0, 460px) minmax(0, 484px);
+  gap: 48px 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__card {
+    gap: 48px 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__card {
+    gap: 48px 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__card {
+    gap: 32px;
+  }
+}
