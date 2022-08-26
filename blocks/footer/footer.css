@@ -5,8 +5,15 @@
   max-width: 1184px;
 }
 
+@media screen and (max-width: 1024px) {
+  .footer {
+    max-width: 928px;
+  }
+}
+
 @media screen and (max-width: 760px) {
   .footer {
+    max-width: 720px;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
