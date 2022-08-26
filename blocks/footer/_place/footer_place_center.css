@@ -2,9 +2,15 @@
   margin: 92px auto 24px;
 }
 
+@media screen and (max-width: 1280px) {
+  .footer_place_center {
+    margin: 88px 48px 24px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .footer_place_center {
-    margin: 88px auto 24px;
+    margin: 88px 24px 24px;
   }
 }
 
