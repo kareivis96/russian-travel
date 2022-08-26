@@ -1,9 +1,9 @@
 .places__website-heading {
-  border: 1px solid red;
   margin: 0;
   padding: 0;
   font-weight: 400;
   font-size: 12px;
   line-height: 1;
   letter-spacing : 2px;
+  color: #AAAAAA;
 }

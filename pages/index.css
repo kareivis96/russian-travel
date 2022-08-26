@@ -47,22 +47,19 @@
 @import url('../blocks/places/__paragraph/places__paragraph.css');
 @import url('../blocks/places/__paragraph-text/places__paragraph-text.css');
 
+/* --cover-block styles-- */
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/_places/cover_place_center.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
 
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/header.css');
+/* --footer-block styles-- */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/_place/footer_place_center.css');
+@import url('../blocks/footer/__link-list/footer__link-list.css');
+@import url('../blocks/footer/__link-item/footer__link-item.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
 
 /* --main fonts styles-- */
 @font-face {

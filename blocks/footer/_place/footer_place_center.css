@@ -1,0 +1,15 @@
+.footer_place_center {
+  margin: 92px auto 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer_place_center {
+    margin: 88px auto 24px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .footer_place_center {
+    margin: 64px auto 24px;
+  }
+}
