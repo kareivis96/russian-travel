@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 650px) {
   .footer_place_center {
-    margin: 64px auto 24px;
+    margin: 64px 16px 24px;
   }
 }

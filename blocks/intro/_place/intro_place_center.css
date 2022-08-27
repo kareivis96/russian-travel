@@ -2,14 +2,20 @@
   margin: 92px auto 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .intro_place_center {
+    margin: 92px 48px 0;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .intro_place_center {
-    margin: 88px auto 0;
+    margin: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro_place_center {
-    margin: 64px auto 0;
+    margin: 64px 16px 0;
   }
 }
