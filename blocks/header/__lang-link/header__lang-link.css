@@ -5,7 +5,12 @@
   font-weight: 400;
   font-size: 24px;
   line-height: 1.16;
-  color: #FFFFFF;
+  color: #ffffff;
+  transition: opacity 0.2s ease;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

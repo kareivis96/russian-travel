@@ -1,18 +1,20 @@
 .places__card {
   display: grid;
-  grid-template-columns: minmax(0, 460px) minmax(0, 484px);
+  grid-template-columns: 1fr 1.052fr;
   gap: 48px 40px;
 }
 
 @media screen and (max-width: 1024px) {
   .places__card {
     gap: 48px 32px;
+    grid-template-columns: 1fr 1.036fr;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places__card {
     gap: 48px 28px;
+    grid-template-columns: 1fr 1.035fr;
   }
 }
 
